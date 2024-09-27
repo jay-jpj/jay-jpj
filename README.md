@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jay-jpj](https://github.com/jay-jpj)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Data Analytics**
+- 💬 Ask me about **Machine Learning, Deep Learning, Data Analytics, Web Development**
 
 - 📫 How to reach me **mgjayateertha@gmail.com**
 
