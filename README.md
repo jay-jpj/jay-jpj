@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayateertha M G</h1>
+<h1 align="center">Hi!! 👋, I'm Jayateertha M G</h1>
 <a href="https://github.com/jay-jpj" style="text-align: center">
   <img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" height="600" > 
 </a>
