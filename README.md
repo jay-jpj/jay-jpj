@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayateertha M G</h1>
 <h3 align="right">A passionate Neural Networks Enthusiast, Data Scientist and Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-jpj&label=Profile%20views&color=0e75b6&style=flat" alt="jay-jpj" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-jpj" alt="jay-jpj" /></a> </p>
 
