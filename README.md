@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayateertha M G</h1>
-<h3 align="right">A passionate Neural Networks Enthusiast, Data Scientist and Software Developer</h3>
+<a href="https://github.com/jay-jpj" style="text-align: center"> <img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"> </a>
+<h3 align="center">A passionate Neural Networks Enthusiast, Data Scientist and Software Developer</h3>
 
 
 
